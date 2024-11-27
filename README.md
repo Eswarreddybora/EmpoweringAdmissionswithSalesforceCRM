@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
@@ -16,3 +17,8 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
 - [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+=======
+# EmpoweringAdmissionswithSalesforceCRM
+The Salesforce CRM implementation aims to redefine the admission process at EduConsultPro Institute by replacing outdated manual systems with a dynamic and intuitive digital platform.
+https://docs.google.com/document/d/1wumj_tL8L6HYg4wtDUCOsJiolgXY_L2oNFiYW5iFnns/edit?tab=t.0#heading=h.9qkma1wrwuc
+>>>>>>> 77f2bbb5c7e40ec8f51bdca71b6f92900bd77615
