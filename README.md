@@ -20,5 +20,8 @@ The `sfdx-project.json` file contains useful configuration information for your 
 =======
 # EmpoweringAdmissionswithSalesforceCRM
 The Salesforce CRM implementation aims to redefine the admission process at EduConsultPro Institute by replacing outdated manual systems with a dynamic and intuitive digital platform.
+<<<<<<< HEAD
 https://docs.google.com/document/d/1wumj_tL8L6HYg4wtDUCOsJiolgXY_L2oNFiYW5iFnns/edit?tab=t.0#heading=h.9qkma1wrwuc
 >>>>>>> 77f2bbb5c7e40ec8f51bdca71b6f92900bd77615
+=======
+>>>>>>> d704e19c587484d24ab7c147ac786bcb8d672e51
